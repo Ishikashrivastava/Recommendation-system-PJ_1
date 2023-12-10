@@ -8,4 +8,4 @@ Hybrid Recommendation Systems: Combine collaborative and content-based filtering
 
 Matrix Factorization: Utilizes matrix factorization techniques to fill in missing entries in user-item interaction matrices to make recommendations.
 
-Deep Learning-based Systems: Use neural networks to learn intricate patterns and relationships in user-item interactions.
+Deep Learning-based Systems: Use neural networks to learn intricate patterns and relationships in user-item interactions
